@@ -3,6 +3,9 @@
 markdown language를 쓴다.
 나무위키, 위키피디아
 # 개발자 소개
+[제목][내용][설명]
+[-----][---][---]
+[이름][홍길동]
 ## 작품 1 - django framework 활용 게시판 만들기
 ### 설계도
 <img src = "archi.jpg" />![2023-serverless-10million-3-10k-architecture](https://github.com/user-attachments/assets/f1f29fa5-19a2-49e6-b4f3-f059e9d45dfb)
@@ -19,3 +22,4 @@ markdown language를 쓴다.
 동영상
 link 생성
 list
+https://github.com/kimphysicsman/portfolio.git
